@@ -27,12 +27,12 @@ This is a simple calculator application created using Python's Tkinter library.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/itsLoCKz/Calculator.git
    ```
 2. Navigate to project directory:
 
    ```bash
-   cd calculator
+   cd Calculator
    ```
 3. Run the script
 
