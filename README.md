@@ -42,7 +42,7 @@ This is a simple calculator application created using Python's Tkinter library.
 
 ## Screenshots
 
-![Screenshot1](calculator-gui.jpg)
+![Screenshot1](https://github.com/itsLoCKz/Calculator/blob/main/calculator-gui.JPG)
 
 ## License
 
